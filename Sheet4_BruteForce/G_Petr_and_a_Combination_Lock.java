@@ -8,7 +8,7 @@ public class G_Petr_and_a_Combination_Lock {
         for (int i = 0; i < n; i++) {
             a.add(sc.nextInt());
         }
-        int total = 1 << n;  // (total-1) is the number of possible combinations of + , -
+        int total = 1 << n; 
         for (int mask = 0; mask < total; mask++) {
             int sum = 0;
             for (int j = 0; j < n; j++) {

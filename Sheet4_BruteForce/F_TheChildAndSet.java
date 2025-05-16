@@ -1,5 +1,5 @@
 import java.util.*;
-public class Main {
+public class F_TheChildAndSet {
     static class Pair{
         int x;
         int y;

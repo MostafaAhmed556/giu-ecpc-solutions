@@ -1,6 +1,6 @@
 import java.util.*;
 
-public class Main {
+public class B_LuckyNumbers {
 
     public static int get(int i) {
         int max = 0, min = 9;

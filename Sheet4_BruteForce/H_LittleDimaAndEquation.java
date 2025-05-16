@@ -1,6 +1,6 @@
 import java.util.*;
 
-public class Main {
+public class H_LittleDimaAndEquation {
 
     public static int s(long x) {
         int sum = 0;
